@@ -26,24 +26,21 @@ body {
 @media screen and (max-width: 550px) {
     .contain {
         width: 80vw;
-        margin: 20vh auto;
+        margin: 18vh auto;
 
     }
 
     .text {
-        width: 60%;
+        width: 50%;
     }
 
     h1 {
-        font-size: 3rem;
+        font-size: 2.8rem;
     }
 
-    p {
-        font-size: 1.3rem;
-    }
 
     img.to {
-        width: 5rem;
+        width: 4rem;
         float: right;
         margin-top: 2rem;
     }
@@ -62,10 +59,10 @@ body {
     }
 
     .bn.top {
-        top: .5rem;
-        left: 20px;
+        top: -2rem;
+        left: 30px;
         z-index: -1;
-        width: 90vw;
+        width: 80vw;
     }
 
 
